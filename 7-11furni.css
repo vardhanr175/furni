@@ -1,0 +1,223 @@
+.nav {
+    margin-left: 500px;
+    padding-top: 20px;
+}
+.furni {
+    font-size:32px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.con {
+    height:80px;
+    background-color: #3b5d50;
+}
+.nav-link {
+    color:rgba(255, 255, 255, 0.71);
+    padding-left: 25px;
+}
+.nav-link:hover {
+    color:white;
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    text-decoration-thickness: 5px;
+}
+.nav-link:active {
+    color:white;
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    text-decoration-thickness: 5px;
+}
+.nav-link:visited {
+    color:white;
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    text-decoration-thickness: 5px;
+}
+.person {
+    padding-left: 30px;
+    font-size: 20px;
+}
+.cart {
+    font-size: 20px;
+}
+.sofa {
+    margin-top: 1px;
+    height:520px;
+    background-color: #3b5d50;
+}
+.home {
+    color: white;
+}
+.one {
+    padding-top: 110px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.para {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    opacity: 50%;
+}
+.shop {
+    width:130px;
+    height:50px;
+    border-radius: 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.explore {
+    margin-left: 10px;
+    width:110px;
+    height:50px;
+    border-radius: 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.blank {
+    height:130px;
+}
+.material {
+    height: 530px;
+}
+.materialpara {
+    margin-top: 20px;
+    font-size: small;
+}
+.con2 {
+    padding-top: 130px;
+}
+.buttonmaterial {
+    width:105px;
+    height:45px;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.smal {
+    font-size: small;
+}
+.fourth {
+    margin-top: 200px;
+}
+.grid1 {
+    height:610px;
+}
+.grid2 {
+    height:200px;
+    width:230px;
+    position: relative;
+    top:-200px;
+    padding-left: 15px;
+}
+.design {
+    margin-top: 200px;
+    height:800px;
+}
+.grid3 {
+    width:360px;
+    height:480px;
+    position:relative;
+    top:-400px;
+    left:375px;
+}
+.secondcol {
+    padding-left: 40px;
+}
+.designpara {
+    font-size: small;
+    line-height: 30px;
+    margin-top: 30px;
+}
+ul {
+    list-style-type: circle;
+}
+li {
+    padding-top: 10px;
+}
+.exbutton {
+    font-weight:bold;
+    width:110px;
+    height:50px;
+    border-radius: 50px;
+}
+.chairs {
+    height:270px;
+    
+}
+.chairlinks {
+    color:black;
+    text-decoration: none;
+}
+.chairpara {
+    color:#2f2f2f;
+}
+.clas {
+    height:500px;
+    background-color: yellow;
+}
+
+.lst2 {
+    background-color: rgb(241, 238, 238);
+    height: 150px;
+}
+.last2 {
+    background-color: rgb(241, 238, 238);
+    height:650px;
+}
+.linklast2 {
+    position: relative;
+    left:550px;
+    color:#2f2f2f;
+}
+.linklast2:hover {
+    text-decoration: none;
+}
+.lin {
+    text-decoration: none;
+    color:#2f2f2f;
+}
+.link2row2 {
+    margin-top: 50px;
+}
+.imglst2:hover {
+    opacity: 65%;
+}
+.last {
+    margin-top: 90px;
+   
+    height:150px;
+}
+.lastrow2 {
+    margin-top: 10px;
+  
+}
+
+.lastcol {
+   
+    height:40px;
+    border-radius: 10px;
+    width: 220px;
+}
+.hello {
+    height:300px;
+    width:400px;
+    position: relative;
+    top:-200px;
+    left:250px;
+}
+.lastbtn {
+    width:70px;
+    height:40px;
+}
+.hell {
+
+    height:150px;
+}
+.logoss {
+    font-size: 35px;
+    color: #3b5d50;
+   
+}
